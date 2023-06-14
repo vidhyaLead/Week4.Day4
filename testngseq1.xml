@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="LeadTest" verbose="5" >
+    <classes>
+      <class name="week4.Day4.CreateLead"/>
+      <class name="week4.Day4.EditLead"/>
+      
+      </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
